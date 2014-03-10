@@ -1,0 +1,211 @@
+{
+    "venues": [
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "Leigh's Favorite Books",
+            "sub_name": "",
+            "geo_latt": "37.37732",
+            "geo_long": "-122.0300019",
+            "address": "121 S Murphy Ave, Sunnyvale, CA, 94086 ",
+            "phone": "408.736.2665",
+            "tracking_num": "4087362665",
+            "description": "<p><strong>Leigh's Favorite Books<\/strong> is located at 121 S Murphy Ave., Sunnyvale, CA<\/p>\n\n",
+            "features_text": "<p><strong>Leigh's Favorite Books<\/strong> is located at 121 S Murphy Ave., Sunnyvale, CA<\/p>\n\n",
+            "website": "http:\/\/www.leighsbooks.com",
+            "notes": "Hours:Mon 10:00 am - 9:00 pm Tue 10:00 am - 9:00 pm Wed 10:00 am - 9:00 pm Thu 10:00 am - 9:00 pm Fri 10:00 am - 10:00 pm Sat 10:00 am - 10:00 pm Open now Sun 12:00 pm - 8:00 pm \nYelp url: http:\/\/www.yelp.ca\/biz\/leighs-favorite-books-sunnyvale",
+            "hours": {
+                "mon": "10:00am - 9:00pm",
+                "tue": "10:00am - 9:00pm",
+                "wed": "10:00am - 9:00pm",
+                "thu": "10:00am - 9:00pm",
+                "fri": "10:00am - 10:00pm",
+                "sat": "10:00am - 10:00pm",
+                "sun": "12:00pm - 8:00pm"
+            }
+        },
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "Recycle Bookstore West",
+            "sub_name": "",
+            "geo_latt": "37.2871556",
+            "geo_long": "-121.9446652",
+            "address": "275 E Campbell Ave, Campbell, CA, 95008 ",
+            "phone": "408.370.3514",
+            "tracking_num": "4083703514",
+            "description": "<p><strong>Recycle Bookstore West<\/strong> is located at 275 E Campbell Ave., Campbell, CA<\/p>\n\n",
+            "features_text": "<p><strong>Recycle Bookstore West<\/strong> is located at 275 E Campbell Ave., Campbell, CA<\/p>\n\n",
+            "website": "http:\/\/recyclebookstore.com",
+            "notes": "Hours:Mon 11:00 am - 9:00 pm Tue 11:00 am - 9:00 pm Wed 11:00 am - 9:00 pm Thu 11:00 am - 9:00 pm Fri 11:00 am - 9:00 pm Sat 11:00 am - 9:00 pm Open now Sun 10:00 am - 5:00 pm \nYelp url: http:\/\/www.yelp.ca\/biz\/recycle-bookstore-west-campbell",
+            "hours": {
+                "mon": "11:00am - 9:00pm",
+                "tue": "11:00am - 9:00pm",
+                "wed": "11:00am - 9:00pm",
+                "thu": "11:00am - 9:00pm",
+                "fri": "11:00am - 9:00pm",
+                "sat": "11:00am - 9:00pm",
+                "sun": "10:00am - 5:00pm"
+            }
+        },
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "Spartan Bookstore",
+            "sub_name": "",
+            "geo_latt": "37.3354576",
+            "geo_long": "-121.8784413",
+            "address": "Student Union Building211 S 9th St, San Jose, CA, 95192 ",
+            "phone": "408.924.1800",
+            "tracking_num": "4089241800",
+            "description": "<p><strong>Spartan Bookstore<\/strong> is located at Student Union Building211 S 9th St., San Jose, CA<\/p>\n\n",
+            "features_text": "<p><strong>Spartan Bookstore<\/strong> is located at Student Union Building211 S 9th St., San Jose, CA<\/p>\n\n",
+            "website": "http:\/\/www.spartanbookstore.com"
+        },
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "Kinokuniya Book Store",
+            "sub_name": "",
+            "geo_latt": "37.3150449",
+            "geo_long": "-121.9779929",
+            "address": "Mitsuwa Marketplace675 Saratoga Ave, San Jose, CA, 95129 ",
+            "phone": "408.252.1300",
+            "tracking_num": "4082521300",
+            "description": "<p><strong>Kinokuniya Book Store<\/strong> is located at Mitsuwa Marketplace675 Saratoga Ave., San Jose, CA<\/p>\n\n",
+            "features_text": "<p><strong>Kinokuniya Book Store<\/strong> is located at Mitsuwa Marketplace675 Saratoga Ave., San Jose, CA<\/p>\n\n",
+            "website": "http:\/\/www.kinokuniya.com\/us\/",
+            "notes": "Hours:Mon 10:00 am - 8:00 pm Tue 10:00 am - 8:00 pm Wed 10:00 am - 8:00 pm Thu 10:00 am - 8:00 pm Fri 10:00 am - 8:00 pm Sat 10:00 am - 8:00 pm Open now Sun 10:00 am - 8:00 pm \nYelp url: http:\/\/www.yelp.ca\/biz\/kinokuniya-book-store-san-jose",
+            "hours": {
+                "mon": "10:00am - 8:00pm",
+                "tue": "10:00am - 8:00pm",
+                "wed": "10:00am - 8:00pm",
+                "thu": "10:00am - 8:00pm",
+                "fri": "10:00am - 8:00pm",
+                "sat": "10:00am - 8:00pm",
+                "sun": "10:00am - 8:00pm"
+            }
+        },
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "Village House Of Books",
+            "sub_name": "",
+            "geo_latt": "37.227545",
+            "geo_long": "-121.980827",
+            "address": "326 Village LnSte A, Los Gatos, CA, 95030 ",
+            "phone": "408.354.6600",
+            "tracking_num": "4083546600",
+            "description": "<p><strong>Village House Of Books<\/strong> is located at 326 Village LnSte A., Los Gatos, CA<\/p>\n\n",
+            "features_text": "<p><strong>Village House Of Books<\/strong> is located at 326 Village LnSte A., Los Gatos, CA<\/p>\n\n",
+            "website": "http:\/\/villagehouseofbooks.com",
+            "notes": "Hours:Mon Closed Tue 10:00 am - 6:00 pm Wed 10:00 am - 6:00 pm Thu 10:00 am - 6:00 pm Fri 10:00 am - 6:00 pm Sat 10:00 am - 6:00 pm Closed now Sun 9:00 am - 2:00 pm \nYelp url: http:\/\/www.yelp.ca\/biz\/village-house-of-books-los-gatos",
+            "hours": {
+                "mon": "1:00am",
+                "tue": "10:00am - 6:00pm",
+                "wed": "10:00am - 6:00pm",
+                "thu": "10:00am - 6:00pm",
+                "fri": "10:00am - 6:00pm",
+                "sat": "10:00am - 6:00pm",
+                "sun": "9:00am - 2:00pm"
+            }
+        },
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "Recycle Book Store",
+            "sub_name": "",
+            "geo_latt": "37.3313888",
+            "geo_long": "-121.9111383",
+            "address": "1066 The Alameda, San Jose, CA, 95126 ",
+            "phone": "408.286.6275",
+            "tracking_num": "4082866275",
+            "description": "<p><strong>Recycle Book Store<\/strong> is located at 1066 The Alameda., San Jose, CA<\/p>\n\n",
+            "features_text": "<p><strong>Recycle Book Store<\/strong> is located at 1066 The Alameda., San Jose, CA<\/p>\n\n",
+            "website": "http:\/\/recyclebookstore.com",
+            "notes": "Hours:Mon 11:00 am - 9:00 pm Tue 11:00 am - 9:00 pm Wed 11:00 am - 9:00 pm Thu 11:00 am - 9:00 pm Fri 11:00 am - 7:00 pm Sat 11:00 am - 7:00 pm Open now Sun 12:00 pm - 7:00 pm \nYelp url: http:\/\/www.yelp.ca\/biz\/recycle-book-store-san-jose",
+            "hours": {
+                "mon": "11:00am - 9:00pm",
+                "tue": "11:00am - 9:00pm",
+                "wed": "11:00am - 9:00pm",
+                "thu": "11:00am - 9:00pm",
+                "fri": "11:00am - 7:00pm",
+                "sat": "11:00am - 7:00pm",
+                "sun": "12:00pm - 7:00pm"
+            }
+        },
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "East West Bookstore",
+            "sub_name": "",
+            "geo_latt": "37.392266",
+            "geo_long": "-122.0801046",
+            "address": "324 Castro St, Mountain View, CA, 94041 ",
+            "phone": "650.988.9800",
+            "tracking_num": "6509889800",
+            "description": "<p><strong>East West Bookstore<\/strong> is located at 324 Castro St., Mountain View, CA<\/p>\n\n",
+            "features_text": "<p><strong>East West Bookstore<\/strong> is located at 324 Castro St., Mountain View, CA<\/p>\n\n",
+            "website": "http:\/\/www.eastwest.com\/",
+            "notes": "Hours:Mon 11:00 am - 10:00 pm Tue 11:00 am - 10:00 pm Wed 11:00 am - 10:00 pm Thu 11:00 am - 10:00 pm Fri 11:00 am - 11:00 pm Sat 11:00 am - 11:00 pm Open now Sun 11:00 am - 8:00 pm \nYelp url: http:\/\/www.yelp.ca\/biz\/east-west-bookstore-mountain-view-2",
+            "hours": {
+                "mon": "11:00am - 10:00pm",
+                "tue": "11:00am - 10:00pm",
+                "wed": "11:00am - 10:00pm",
+                "thu": "11:00am - 10:00pm",
+                "fri": "11:00am - 11:00pm",
+                "sat": "11:00am - 11:00pm",
+                "sun": "11:00am - 8:00pm"
+            }
+        },
+        {
+            "chain_id": 0,
+            "business_type": [
+                4,
+                1
+            ],
+            "name": "Kepler's Books",
+            "sub_name": "",
+            "geo_latt": "37.4534995",
+            "geo_long": "-122.1821256",
+            "address": "1010 El Camino Real, Menlo Park, CA, 94025 ",
+            "phone": "650.324.4321",
+            "tracking_num": "6503244321",
+            "description": "<p><strong>Kepler's Books<\/strong> is located at 1010 El Camino Real., Menlo Park, CA<\/p>\n\n",
+            "features_text": "<p><strong>Kepler's Books<\/strong> is located at 1010 El Camino Real., Menlo Park, CA<\/p>\n\n",
+            "website": "http:\/\/www.keplers.com",
+            "notes": "Hours:Mon 9:00 am - 10:00 pm Tue 9:00 am - 10:00 pm Wed 9:00 am - 10:00 pm Thu 9:00 am - 10:00 pm Fri 9:00 am - 10:00 pm Sat 9:00 am - 10:00 pm Open now Sun 9:00 am - 10:00 pm \nYelp url: http:\/\/www.yelp.ca\/biz\/keplers-books-menlo-park",
+            "hours": {
+                "mon": "9:00am - 10:00pm",
+                "tue": "9:00am - 10:00pm",
+                "wed": "9:00am - 10:00pm",
+                "thu": "9:00am - 10:00pm",
+                "fri": "9:00am - 10:00pm",
+                "sat": "9:00am - 10:00pm",
+                "sun": "9:00am - 10:00pm"
+            }
+        }
+    ],
+    "features": null
+}

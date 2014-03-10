@@ -1,0 +1,22 @@
+* html .results .item .links li,
+* html .latest-blog .links li{
+	z-index: expression( runtimeStyle.zIndex = 1, this == parentNode.firstChild ? (className += ' first-child') : 0 );
+}
+.paging li,
+.results .item .info,
+.results .item .links,
+.results .item .stars,
+.reviews .headline .hold,
+.reviews .headline .photo,
+.venues-list-popular li,
+.venues-list .desc,
+.venues-list .photo{
+	display:inline;
+	zoom:1;
+}
+* html .search-form .holder{
+	background:url(../images/none.gif);	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-search.png', sizingmethod='crop');
+}
+* html .btn-get span{
+	background:url(../images/none.gif);	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/btn-get.png', sizingmethod='crop');
+}

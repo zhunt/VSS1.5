@@ -1,0 +1,212 @@
+/* admin_styles.css */
+	
+	/* general styles */
+	body { background: #fff; color:#333333; font: 62.5% "Trebuchet MS", sans-serif; }
+	
+	admin-frame { border: 1px solid black;}
+
+        div.actions ul { margin: 0; padding: 0 }
+        div.actions ul li {list-style: none; margin: 0; padding: 2px 0 }
+         
+	/* for listviews */
+	table.listview {
+		width:800px;
+	}
+	table.listview td {
+		overflow:hidden;
+		width:100px;
+		padding:5px;
+	}
+	tr.altrow {
+		background-color:#bcbcbc;
+	}
+	
+	div.paging { text-align:center;}
+
+        table.admin_listview {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            border: 1px solid #ccc;
+        }
+
+        .admin_listview tr th { text-align: left;
+                                font-weight: bold;
+                               margin-bottom: 10px;
+                               padding: 0px;
+                               border-bottom: 1px solid #000
+        }
+
+        .admin_listview tr td { text-align: left; padding: 5px;}
+	
+	/*Input form fields */
+	.input label { /* nothing */ }
+	.input input[type=text], .input textarea { width: 250px; padding: 2px; margin: 0; display: block;}
+	.hint { font-style:italic; font-size: 11px; color:#333;}
+	fieldset { border: 1px solid #999999; margin: 0 0 10px 0;}
+	fieldset legend { font-size: 20px; color:#333;}
+	.error-message { color:#f00;}
+	
+	#flashMessage { text-align:center; font-weight: bold; padding: 10px; margin: 5px 0; border: #CCC; background-color:#FFC; color:#333;}
+
+	/* for admin forms */
+	/* text input */
+	div.text {
+		float:left;
+		padding:5px;
+	}
+	
+	div.text label {
+		border-top:1px solid black;
+		clear:both;
+		color:black;
+		display:block;
+		font-weight:bold;
+		margin:5px 0;
+	}
+	
+	input[type="text"] {
+		margin:-2px 0;
+		padding:0;
+		width:220px;
+	}
+
+	input[type="text"].small {
+		margin:-2px 0;
+		padding:0;
+		width:60px;
+	}
+
+	/* checkboxes input */
+	div.select label {
+		border-top:1px solid black;
+		clear:both;
+		color:black;
+		display:block;
+		font-weight:bold;
+		margin:5px 0;
+		font-size: 12px;
+	}
+	
+	div.checkbox {
+		padding:2px 0;
+		width: 180px; /* 220px; */
+	}
+	
+	div.checkbox label {
+		border:medium none;
+		color:#000000;
+		display:inline;
+		font-weight:normal;
+	}
+	
+	div.checkbox {
+		float:left;
+		margin:2px;
+	}
+	
+	div.input fieldset legend {
+		color:#333333;
+		font-size:10px;
+		font-weight:bold;
+	}
+	
+	div.input fieldset {
+		border-top:1px solid black;
+		margin-top:5px;
+	}
+	
+	div.formblock  {
+		border:1px solid #aaa;
+		float:left;
+		margin:5px 10px 5px 0;
+		width:235px;
+		padding:5px 5px 5px 5px;
+		overflow: hidden;
+	}
+	
+	/* used for hours fields*/
+	div.narrow input[type=text] { width: 150px; display: inline; }
+	div.narrow label { display: inline; border: none; padding-right: 5px; float: left; }
+	
+	div.clearfb {
+		clear: left;
+	}
+	
+	div.wide_formblock  {
+		width:650px;
+	}
+	
+	div.wide_formblock label {
+	font-weight: bold;
+	padding-right: 5px;
+	}
+	
+	/* */
+	div.formblock_narrow  {
+		border:1px solid #aaa;
+		float:left;
+		margin:5px 10px 5px 0;
+		width:180px;
+		padding:5px 5px 5px 5px;
+		overflow: hidden;
+	}
+
+	/* admin form text-areas */
+	div.textarea label {
+		font-weight:bold;
+		border-top: 1px solid black;
+		
+	}
+	
+	div.textarea textarea {
+		width:770px;
+	}
+	
+	div.textarea  {
+		border-top:1px solid black;
+		width: 100%;
+		margin-top: 5px;
+		
+	}	
+	
+	#gmap_block { float:right; margin-top:10px; }
+
+	#gmap {
+            border: 1px solid black;
+            height: 200px;
+            width: 240px
+	}
+
+        /* 100px larger than public view for easier editing */
+        #gmap_streetview {
+            border:1px solid black;
+            height: 300px;
+            width:390px;
+        }
+
+        div#streetview_input { padding: 2px; margin: 5px; border: 1px solid #ccc }
+	#streetview_input label { padding: 0 2px 0 5px }
+
+	#gmap_block .output {
+		display:inline;
+		font-family:"Courier New",Courier,monospace;
+		font-weight:bold;
+		padding-left:5px;
+		font-size:11px;
+	}
+
+	.newline { clear:left; display: block;}
+	
+	input[type=text].longfield {width: 450px;}
+	
+	/*specific button/links */
+	a#encode_address { padding: 0 5px;}
+	
+	/* char counter */
+	#char_counter_right {
+		display: block; float: right;
+		margin-right:10px;
+	}
+	
+

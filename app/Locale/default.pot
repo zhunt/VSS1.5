@@ -1,0 +1,204 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-06-03 03:31+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller\VenuesController.php:30;61;87
+msgid "Invalid venue"
+msgstr ""
+
+#: Controller\VenuesController.php:44;65
+msgid "The venue has been saved"
+msgstr ""
+
+#: Controller\VenuesController.php:47;68
+msgid "The venue could not be saved. Please, try again."
+msgstr ""
+
+#: Controller\VenuesController.php:90
+msgid "Venue deleted"
+msgstr ""
+
+#: Controller\VenuesController.php:93
+msgid "Venue was not deleted"
+msgstr ""
+
+#: View\Venues\add.ctp:4
+msgid "Add Venue"
+msgstr ""
+
+#: View\Venues\add.ctp:9
+#: View\Venues\edit.ctp:10
+msgid "Submit"
+msgstr ""
+
+#: View\Venues\add.ctp:12
+#: View\Venues\edit.ctp:13
+#: View\Venues\index.ctp:8;40
+#: View\Venues\view.ctp:22
+msgid "Actions"
+msgstr ""
+
+#: View\Venues\add.ctp:15
+#: View\Venues\edit.ctp:17
+#: View\Venues\view.ctp:26
+msgid "List Venues"
+msgstr ""
+
+#: View\Venues\edit.ctp:4
+#: View\Venues\view.ctp:24
+msgid "Edit Venue"
+msgstr ""
+
+#: View\Venues\edit.ctp:16
+#: View\Venues\index.ctp:19
+msgid "Delete"
+msgstr ""
+
+#: View\Venues\edit.ctp:16
+#: View\Venues\index.ctp:19
+#: View\Venues\view.ctp:25
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View\Venues\index.ctp:2
+msgid "Venues"
+msgstr ""
+
+#: View\Venues\index.ctp:17
+msgid "View"
+msgstr ""
+
+#: View\Venues\index.ctp:18
+msgid "Edit"
+msgstr ""
+
+#: View\Venues\index.ctp:27
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View\Venues\index.ctp:33
+msgid "previous"
+msgstr ""
+
+#: View\Venues\index.ctp:35
+msgid "next"
+msgstr ""
+
+#: View\Venues\index.ctp:42
+#: View\Venues\view.ctp:27
+msgid "New Venue"
+msgstr ""
+
+#: View\Venues\view.ctp:2
+msgid "Venue"
+msgstr ""
+
+#: View\Venues\view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: View\Venues\view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: View\Venues\view.ctp:14
+msgid "Created"
+msgstr ""
+
+#: View\Venues\view.ctp:25
+msgid "Delete Venue"
+msgstr ""
+
+#: Model\Venue.php:validation for field name
+msgid "notempty"
+msgstr ""
+
+#: View\Errors\error400.ctp:21
+#: View\Errors\error500.ctp:21
+msgid "Error"
+msgstr ""
+
+#: View\Errors\error400.ctp:23
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View\Errors\error500.ctp:22
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View\Pages\home.ctp:17
+msgid "Your version of PHP is 5.2.8 or higher."
+msgstr ""
+
+#: View\Pages\home.ctp:21
+msgid "Your version of PHP is too low. You need PHP 5.2.8 or higher to use CakePHP."
+msgstr ""
+
+#: View\Pages\home.ctp:30
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: View\Pages\home.ctp:34
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: View\Pages\home.ctp:44
+msgid "The %s is being used for core caching. To change the config edit APP/Config/core.php "
+msgstr ""
+
+#: View\Pages\home.ctp:48
+msgid "Your cache is NOT working. Please check the settings in APP/Config/core.php"
+msgstr ""
+
+#: View\Pages\home.ctp:58
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: View\Pages\home.ctp:63
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: View\Pages\home.ctp:65
+msgid "Rename APP/Config/database.php.default to APP/Config/database.php"
+msgstr ""
+
+#: View\Pages\home.ctp:83
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: View\Pages\home.ctp:87
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: View\Pages\home.ctp:97
+msgid "PCRE has not been compiled with Unicode support."
+msgstr ""
+
+#: View\Pages\home.ctp:99
+msgid "Recompile PCRE with Unicode support by adding <code>--enable-unicode-properties</code> when configuring"
+msgstr ""
+
+#: View\Pages\home.ctp:103
+msgid "Editing this Page"
+msgstr ""
+
+#: View\Pages\home.ctp:106
+msgid "To change the content of this page, edit: %s\n\t\tTo change its layout, edit: %s\n\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: webroot\test.php:87
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

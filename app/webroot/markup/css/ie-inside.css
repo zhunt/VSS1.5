@@ -1,0 +1,15 @@
+* html body {
+	width:expression(document.documentElement.clientWidth < 1000 ? "1000" : "auto");
+}
+* html .frame-gallery {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='/images/bg-gallery-block.png', sizingmethod='crop');
+}
+* html .block-info .button {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='/images/button-02.png', sizingmethod='crop');
+}
+* html .block-info .button:hover {
+	background:none;
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='/images/button-01.png', sizingmethod='crop');
+}

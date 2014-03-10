@@ -1,0 +1,25 @@
+<div class="maps form">
+<?php echo $this->Form->create('Map'); ?>
+	<fieldset>
+		<legend><?php echo __('Edit Map'); ?></legend>
+	<?php
+		echo $this->Form->input('id');
+		echo $this->Form->input('name');
+		echo $this->Form->input('seo_title');
+		echo $this->Form->input('MapLocation');
+	?>
+	</fieldset>
+<?php echo $this->Form->end(__('Submit')); ?>
+</div>
+<div class="actions">
+	<h3><?php echo __('Actions'); ?></h3>
+	<ul>
+
+		<li><?php echo $this->Form->postLink(__('Delete'), array('action' => 'delete', $this->Form->value('Map.id')), null, __('Are you sure you want to delete # %s?', $this->Form->value('Map.id'))); ?></li>
+		<li><?php echo $this->Html->link(__('List Maps'), array('action' => 'index')); ?></li>
+		<li><?php echo $this->Html->link(__('List Map Location Types'), array('controller' => 'map_location_types', 'action' => 'index')); ?> </li>
+		<li><?php echo $this->Html->link(__('New Map Location Type'), array('controller' => 'map_location_types', 'action' => 'add')); ?> </li>
+		<li><?php echo $this->Html->link(__('List Map Locations'), array('controller' => 'map_locations', 'action' => 'index')); ?> </li>
+		<li><?php echo $this->Html->link(__('New Map Location'), array('controller' => 'map_locations', 'action' => 'add')); ?> </li>
+	</ul>
+</div>
